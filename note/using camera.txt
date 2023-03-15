@@ -1,0 +1,10 @@
+to work with camera, go to expo and search for camera
+
+https://docs.expo.dev/versions/v45.0.0/sdk/camera/
+
+and now install it 
+expo install expo-camera
+
+after this, install expo image picker
+
+npx expo install expo-image-picker
